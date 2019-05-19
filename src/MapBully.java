@@ -7,6 +7,7 @@ public class MapBully {
             map.put("b", map.get("a"));
             map.put("a", "");
         }
+
         return map;
     }
 
